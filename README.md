@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/17db2443-8901-45d9-bfa2-87b6a9adc1db)
 ![image](https://github.com/user-attachments/assets/f4d4154f-8187-433f-be6d-21ffa7d48895)
 <img src="https://github.com/user-attachments/assets/c5c14d1e-3da4-4c77-b962-1561665ef694" width="90"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
+<img src="https://img.icons8.com/color/48/redux.png" alt="redux"  width="90"  />
 
 
 
