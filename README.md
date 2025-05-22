@@ -5,7 +5,7 @@
 - 🤔 I’m looking to be Front end Web & and life cycle
 
 
-### Languages and Tools
+### Code Learning
 ![image](https://github.com/user-attachments/assets/c8bd07a6-8801-473f-bad6-63613b13666f)
 ![image](https://github.com/user-attachments/assets/eae00acf-26ef-4ac3-bb59-9cbf434a2e3e)
 ![image](https://github.com/user-attachments/assets/56ed7ef1-6181-4640-82cd-1d950b6e64a4)
