@@ -2,7 +2,7 @@
 # Frontend React.js
 - 🔭 I’m currently working on [University](https://www.bilecik.edu.tr/), Computer Engineering Student.
 - 🌱 I’m currently learning React & improve js
-- 🤔 I’m looking to be Full Stack Web & ios Development
+- 🤔 I’m looking to be Front end Web & and life cycle
 
 
 ### Languages and Tools
