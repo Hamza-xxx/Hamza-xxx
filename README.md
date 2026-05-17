@@ -11,7 +11,7 @@ Interested in:
   <li>☁️ Cloud Technologies</li>
   <li>🎨 UI Development</li>
 </ul>
-*Passionate about problem-solving, modern web technologies, and continuous learning.
+Passionate about problem-solving, modern web technologies, and continuous learning.
 
 # 🛠️ Tech & Tools
 
