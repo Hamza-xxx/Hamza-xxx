@@ -1,4 +1,4 @@
-## 👋 Welcome to My GitHub Profile
+# 👋 Welcome to My GitHub Profile
 
 ## 🚀 About Me
 Computer Engineering student with practical experience in building modern web applications using React, TypeScript, PHP MVC, Firebase, and MySQL.
@@ -9,6 +9,12 @@ Interested in:
 2.🌐 Web Development
 3.☁️ Cloud Technologies
 4.🎨 UI Development
+<ul>
+  <li>🤖 AI Systems</li>
+  <li>🌐 Web Development</li>
+  <li>☁️ Cloud Technologies</li>
+  <li>🎨 UI Development</li>
+</ul>
 Passionate about problem-solving, modern web technologies, and continuous learning.
 ---
 ## 🛠️ Tech & Tools
