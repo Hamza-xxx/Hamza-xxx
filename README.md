@@ -14,6 +14,7 @@ Interested in:
 Passionate about problem-solving, modern web technologies, and continuous learning.
 ---
 # 🛠️ Tech & Tools
+
 ![Static Badge](https://img.shields.io/badge/React%20-%20%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/TypeScript%20-%20%233178C6)
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%23F7DF1E)
