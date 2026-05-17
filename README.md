@@ -35,21 +35,23 @@ Passionate about problem-solving, modern web technologies, and continuous learni
 ## 🎤 AI Interview Platform
 AI-powered interview platform built with React, TypeScript, Firebase, and Gemini AI.
 
--Features
--Authentication
--AI Interview Generation
--Feedback System
--Voice Workflow Integration
-
+<ul>
+  <li>Features</li>
+  <li>Authentication</li>
+  <li>AI Interview Generation</li>
+  <li>Voice Workflow Integration</li>
+</ul>
 
 ## 🍽️ Turkish Food Ordering System
 Web-based food ordering platform built using PHP MVC architecture and MySQL.
-1-User Authentication
-2-Session Management
-3-Cart System
-4-Coupon Discounts
-5-Food Categories
-6-Responsive UI
 
+<ul>
+  <li>User Authentication</li>
+  <li>Session Management</li>
+  <li>Cart System</li>
+  <li>Coupon Discounts</li>
+  <li>Food Categories</li>
+  <li>Responsive UI</li>
+</ul>
 
 
