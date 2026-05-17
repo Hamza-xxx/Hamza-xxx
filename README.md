@@ -5,10 +5,6 @@ Computer Engineering student with practical experience in building modern web ap
 
 Interested in:
 
-1.🤖 AI Systems
-2.🌐 Web Development
-3.☁️ Cloud Technologies
-4.🎨 UI Development
 <ul>
   <li>🤖 AI Systems</li>
   <li>🌐 Web Development</li>
@@ -17,7 +13,7 @@ Interested in:
 </ul>
 Passionate about problem-solving, modern web technologies, and continuous learning.
 ---
-## 🛠️ Tech & Tools
+# 🛠️ Tech & Tools
 ![Static Badge](https://img.shields.io/badge/React%20-%20%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/TypeScript%20-%20%233178C6)
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%23F7DF1E)
@@ -33,17 +29,19 @@ Passionate about problem-solving, modern web technologies, and continuous learni
 ![Static Badge](https://img.shields.io/badge/GitHub%20-%20%23111827)
 ![Static Badge](https://img.shields.io/badge/Data%20Structures%20-%233A7D44)
 ![Static Badge](https://img.shields.io/badge/MVC%20Architecture%20-%20%237C3AED)
-## 📌 Featured Projects
-# 🎤 AI Interview Platform
+
+# 📌 Featured Projects
+## 🎤 AI Interview Platform
 AI-powered interview platform built with React, TypeScript, Firebase, and Gemini AI.
 
-1-Features
-2-Authentication
-3-AI Interview Generation
-4-Feedback System
-5-Voice Workflow Integration
+-Features
+-Authentication
+-AI Interview Generation
+-Feedback System
+-Voice Workflow Integration
 
-# 🍽️ Turkish Food Ordering System
+
+## 🍽️ Turkish Food Ordering System
 Web-based food ordering platform built using PHP MVC architecture and MySQL.
 1-User Authentication
 2-Session Management
